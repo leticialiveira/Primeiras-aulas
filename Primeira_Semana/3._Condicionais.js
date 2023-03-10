@@ -9,7 +9,7 @@ let b = 2 >= 2 // true
 // Menor
 let c = 2 < 0 // true
 
-// Menor
+// Menor ou igual
 let d = 2 <= 0  // true
 
 // Igual
