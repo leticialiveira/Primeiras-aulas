@@ -12,10 +12,10 @@ while(count<100){
 
 let countt = 0;
 do{
-    console.log(count);
-    count++;
+    console.log(countt);
+    countt++;
 }
-while(count < 100)
+while(countt < 100)
 
 
 // For => é declarado um valor inicial, depois é determinado a condição de parada e por fim a passo dado entre o valor inicial e o final. 
